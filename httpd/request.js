@@ -131,7 +131,7 @@ req = (function() {
 						});
 					}
                     else {
-                        req.data.post = post;
+                        data.post = post;
                     }
 				}
 			}
